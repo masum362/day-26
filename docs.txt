@@ -1,0 +1,16 @@
+spread operator
+
+if else
+else if
+nested if
+shorthand if else
+loop
+for loop
+while loop
+break 
+continue
+do while
+
+task 5ta
+
+assignment
